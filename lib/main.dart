@@ -40,7 +40,7 @@ class _MainState extends State<Main> {
         title: Center(
           child: Text('Bilibili'),
         ),
-        backgroundColor: AppTheme.primaryColor,
+        backgroundColor: AppTheme.backgroundColorPrimary,
         leading: Icon(Icons.arrow_back_ios),
         actions: [
           IconButton(

@@ -65,8 +65,8 @@ flutter:
   #         weight: 700
   #
   fonts:
-    - family: 'icon-font'
+    - family: icon-font
       fonts:
-        - asset: fonts/iconfont.ttf
+        - asset: asset/fonts/iconfont.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
