@@ -111,7 +111,7 @@ class _HeadState extends State<Head> {
     return Padding(
       padding: EdgeInsets.only(top: 7.0),
       child: TextEllipsisBoxState(
-        '这里是某个人编辑写的个人简介这编辑写的个人简介个人这里是某个人编辑写的个人简介这编辑写的个人简介个人',
+        '这里是某个人编辑写的个人简介这编辑写的个人简介个这里是某个人编辑写的个人简介这编辑写的个人简介个这里是某个人编辑写的个人简介这编辑写的个人简介个这里是某个人编辑写的个人简介这编辑写的个人简介个这里是某个人编辑写的个人简介这编辑写的个人简介个',
         maxLine: 1,
       ),
     );
